@@ -1,0 +1,20 @@
+{
+    "name":"Nikky's Listing",
+    "id":"nikkyai.listing",
+    "url":"https://nikkyai.github.io/vpm/index.json",
+    "author":{
+        "email":"",
+        "name":"NikkyAI",
+        "url":""
+    },
+    "description":"Aggregate listing of VRChat packages",
+    "infoLink":{
+        "url":"http://github.com/nikkyai/vpm",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "nikkyai/kineticcontrols",
+        "nikkyai/googiefadersystem"
+    ]
+}
