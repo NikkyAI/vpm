@@ -14,8 +14,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "nikkyai/core-utilities",
-        "nikkyai/kineticcontrols",
-        "nikkyai/googiefadersystem"
+        "NikkyAI/Core-Utilities",
+        "NikkyAI/Kinetic-Controls",
+        "NikkyAI/googiefadersystem"
     ]
 }
