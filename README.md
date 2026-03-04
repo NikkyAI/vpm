@@ -1,7 +1,6 @@
 # Nikky's vrc package repository
 
-
-add your VCC: [click here](vcc://vpm/addRepo?url=https://nikkyai.github.io/vpm/index.json)
+VCC: https://nikkyai.github.io/vpm  
 using https://vrc-get.anatawa12.com/en/alcom/ is highly recommended
 
 
