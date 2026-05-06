@@ -15,6 +15,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "NikkyAI/Core-Utilities",
-        "NikkyAI/Kinetic-Controls"
+        "NikkyAI/Kinetic-Controls",
+        "NikkyAI/UdonScripts"
     ]
 }
