@@ -1,7 +1,7 @@
 {
     "name":"Nikky's Listing",
     "id":"nikkyai.listing",
-    "url":"https://nikkyai.github.io/vpm/index.json",
+    "url":"https://nikkyai.github.io/vcc/index.json",
     "author":{
         "email":"",
         "name":"NikkyAI",
@@ -9,7 +9,7 @@
     },
     "description":"Aggregate listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/nikkyai/vpm",
+        "url":"http://github.com/nikkyai/vcc",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
